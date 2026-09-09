@@ -1,7 +1,11 @@
-# SkyHanni - Change Log
+# Chatter - Changelog
 
-## Version 8.0.0
+## 1.0.0
 
 ### New Features
 
-just save or make for stable version fix and other imp list.
+* Initial release.
+* Gift Clean Display — hides the `From:` / `To:` nametags above gift entities in SkyBlock.
+* In-game config GUI via `/chatter`, powered by MoulConfig.
+* SkyBlock and island detection (Hub, Garden) for upcoming features.
+* One jar supporting all currently supported Minecraft versions, built with Stonecutter.

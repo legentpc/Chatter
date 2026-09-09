@@ -1,12 +1,11 @@
 # Optimize Minecraft Performance by Updating Java
 
 ## Background
-The Vanilla Minecraft Launcher uses Java 21 & 25. You need Download manually:
-   - Java 21 for 1.21.11+ Versions.
-   - Java 25 for 26.1+ Versions.
+The Vanilla Minecraft Launcher bundles its own Java runtime. Installing Java manually can improve performance:
+- Java 25 for the Minecraft versions currently supported by Hypixel SkyBlock.
 
 ## Recommended Java Distributions
-Choose one of these Java 21 & 25 options:
+Choose one of these Java 25 options:
 
 - [Oracle Java](https://www.oracle.com/java/technologies/downloads/)  
   *The original distribution from Oracle.*
@@ -17,7 +16,7 @@ Choose one of these Java 21 & 25 options:
 
 ## Instructions
 
-### 1. Download and Install Java 21 & 25 Depend on version
+### 1. Download and Install Java 25
 1. Choose a distribution from the list above.
 2. Download the installer or package for your operating system.
 3. Follow the provided instructions to install the latest Java update.

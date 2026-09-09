@@ -14,24 +14,30 @@
 
 ## What it does
 
-Chatter is a Fabric Minecraft mod that adds many useful features to [Hypixel SkyBlock](https://wiki.hypixel.net/Main_Page). With Chatter you have access to:
+A modern, lightweight Minecraft Fabric mod for Hypixel SkyBlock, featuring useful features and daily-use features.
 
-* **Helpful GUIs:** View important information at a glance.
-* ~~**Extra Chat Messages:** Receive reminders and tips at the right moment.~~
-* ~~**Object Highlighters:** Focus on important items in inventories or highlight mobs in the world.~~
-* ~~**Highly Customizable Displays:** Personalize your Scoreboard, Tab List or chat format.~~
-* [And **much** more!](docs/FEATURES.md)
+## Features
 
-Chatter is especially useful when doing ~~farming, slayers, Bingo, Diana, fishing, Rift or mining~~.
+* **Gift Clean Display:** Hides the `From:` / `To:` nametags floating above gift entities in SkyBlock.
+* **Config GUI:** Type `/chatter` in chat to open the in-game settings menu.
 
-## Chatter
+See the full [feature list](docs/FEATURES.md) for details and toggles.
 
-A modern, lightweight Minecraft Fabric 1.21.1 mod for Hypixel Skyblock, featuring capabilities.
+## Supported Versions
 
-## Contributing
+Chatter always targets the Minecraft versions currently supported by [Hypixel SkyBlock](https://wiki.hypixel.net/Main_Page) — the most recent major content updates. Each release on the [releases page](https://github.com/LegentPc/Chatter/releases) lists the exact Minecraft versions it supports.
 
-Are you interested in writing your own Chatter feature? Do you want to fix that one annoying bug yourself? Check out our [contributing guide](CONTRIBUTING.md) for more information!
+## Installation
 
----
+1. Install [Fabric](https://fabricmc.net/use/) for your Minecraft version.
+2. Download the latest Chatter jar from the [releases page](https://github.com/LegentPc/Chatter/releases).
+3. Place it in your `.minecraft/mods` folder together with [Fabric API](https://modrinth.com/mod/fabric-api) and [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin).
 
-**Chatter is part of an active modding community. Explore other useful mods for even more SkyBlock features!**
+Step-by-step guide: [docs/INSTALLING.md](docs/INSTALLING.md) · Java performance tips: [docs/UPDATE_JAVA.md](docs/UPDATE_JAVA.md)
+
+## License
+
+Chatter is released under [CC0-1.0](LICENSE).
+
+## Credits
+Inspired by [SkyHanni](https://github.com/hannibal002/SkyHanni).
